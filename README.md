@@ -81,18 +81,4 @@ t\cos(0.491) - e^{0.02138|t|}\sin(0.3t)\sin(0.491) + 54.90,\;
 \right)
 \]
 
-### **Desmos Format (copy & paste directly)**
-
-```
-(t*cos(0.491) - e^(0.02138*abs(t))*sin(0.3*t)*sin(0.491) + 54.90,
- 42 + t*sin(0.491) + e^(0.02138*abs(t))*sin(0.3*t)*cos(0.491))
-```
-
-**Domain:**
-```
-6 ≤ t ≤ 60
-```
-
-You can visualize this on [Desmos Calculator](https://www.desmos.com/calculator/rfj91yrxob).
-
 
